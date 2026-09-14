@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#080A09"/>
+  <text x="90" y="105" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="52" font-weight="800">TALKSELL / PALETA OFICIAL</text>
+  <rect x="90" y="140" width="1420" height="2" fill="#242824"/>
+
+  <g transform="translate(90 220)">
+    <rect width="320" height="320" rx="32" fill="#C8FF1A"/>
+    <text x="0" y="382" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="31" font-weight="700">SIGNAL LIME</text>
+    <text x="0" y="428" fill="#C8FF1A" font-family="Arial, sans-serif" font-size="29">#C8FF1A</text>
+    <text x="0" y="478" fill="#F5F7F2" opacity="0.72" font-family="Arial, sans-serif" font-size="22">CTA · énfasis · ventas</text>
+  </g>
+
+  <g transform="translate(455 220)">
+    <rect width="320" height="320" rx="32" fill="#080A09" stroke="#F5F7F2" stroke-opacity="0.25" stroke-width="2"/>
+    <text x="0" y="382" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="31" font-weight="700">DEEP BLACK</text>
+    <text x="0" y="428" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="29">#080A09</text>
+    <text x="0" y="478" fill="#F5F7F2" opacity="0.72" font-family="Arial, sans-serif" font-size="22">fondo principal</text>
+  </g>
+
+  <g transform="translate(820 220)">
+    <rect width="320" height="320" rx="32" fill="#F5F7F2"/>
+    <text x="0" y="382" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="31" font-weight="700">CLOUD WHITE</text>
+    <text x="0" y="428" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="29">#F5F7F2</text>
+    <text x="0" y="478" fill="#F5F7F2" opacity="0.72" font-family="Arial, sans-serif" font-size="22">texto principal</text>
+  </g>
+
+  <g transform="translate(1185 220)">
+    <rect width="320" height="320" rx="32" fill="#242824"/>
+    <text x="0" y="382" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="31" font-weight="700">GRAPHITE</text>
+    <text x="0" y="428" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="29">#242824</text>
+    <text x="0" y="478" fill="#F5F7F2" opacity="0.72" font-family="Arial, sans-serif" font-size="22">paneles · divisores</text>
+  </g>
+
+  <text x="90" y="795" fill="#F5F7F2" font-family="Arial, sans-serif" font-size="25" font-weight="700">REGLA DE PROPORCIÓN</text>
+  <text x="90" y="838" fill="#F5F7F2" opacity="0.76" font-family="Arial, sans-serif" font-size="23">Negro 65% · Blanco 20% · Verde 10% · Grafito 5%</text>
+  <rect x="1160" y="780" width="350" height="58" rx="29" fill="#C8FF1A"/>
+  <text x="1335" y="818" text-anchor="middle" fill="#080A09" font-family="Arial, sans-serif" font-size="23" font-weight="800">CONVERSACIONES QUE VENDEN</text>
+</svg>
